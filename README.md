@@ -1,2 +1,2 @@
-# Dailymotion_API
+# Dailymotion API
 Dailymotion Stream Extractor
