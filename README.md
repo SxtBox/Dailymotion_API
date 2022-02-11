@@ -18,6 +18,17 @@ Dailymotion Stream Extractor
 - [x] Automatic Playlist Builder -> Playlist_by_Username/?user=SxtBox
 - [x] Sequence Remover          -> Stream_Finder.php?url={ID OR FULL URL}
 
+## Structures
+- [x] Kodi Direct HLS/MP4 
+- [x] Kodi By Regex
+- [x] VLC
+- [x] RAW
+- [x] DIRECT
+- [x] Smart TV
+- [x] JW Player -> Required CORS
+- [x] Embed Code Builder 
+
+
 ## How to install it?
 Simply upload files to your hosting using FTP With CURL Enabled, That its All.
 
