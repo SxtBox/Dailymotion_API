@@ -32,5 +32,9 @@ Dailymotion Stream Extractor
 ## How to install it?
 Simply upload files to your hosting using FTP With CURL Enabled, That its All.
 
-### Available language versions
+### Script language Versions
 - [x] English
+
+### NOTE FOR ALL
+
+## THESE API ARE FOR DEMONSTRATION ONLY, DO NOT TRY TO CONNECT YOUR APPS TO THESE APPS AS THE SERVER WILL AUTOMATICALLY BLOCK YOU
